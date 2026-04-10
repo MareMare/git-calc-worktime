@@ -54,7 +54,7 @@ gcw-net --user MareMare --dir /path/to/repo \
 
 ### 出力イメージ
 
-<img width="995" height="875" alt="image" src="https://github.com/user-attachments/assets/68be4556-f1c0-4aad-9a1d-8baeead48944" />
+<img width="834" height="875" alt="image" src="https://github.com/user-attachments/assets/4b16bdb8-429d-40e3-892b-b9d4a0e08dba" />
 
 平日が均等配分の期待値 71.4% を上回っているほど「平日中心」の開発スタイル、  
 週末が 28.6% を上回っているほど「週末も活発」な開発スタイルを示します。
