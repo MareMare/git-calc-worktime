@@ -13,7 +13,7 @@
 
   <ItemGroup>
     <PackageReference Include="JetBrains.Annotations" Version="2026.2.0" />
-    <PackageReference Include="Spectre.Console" Version="0.57.0" />
+    <PackageReference Include="Spectre.Console" Version="0.57.1" />
     <PackageReference Include="Spectre.Console.Cli" Version="0.55.0" />
   </ItemGroup>
 
